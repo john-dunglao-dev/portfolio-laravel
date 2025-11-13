@@ -2,10 +2,10 @@
 
 namespace App\Http\Controllers;
 
-use App\Notifications\ContactEmailNotification;
+use App\Mail\ContactAuthorMail;
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
-use Illuminate\Support\Facades\Notification;
+use Illuminate\Support\Facades\Mail;
 
 class ContactEmailController extends Controller
 {
@@ -17,6 +17,12 @@ class ContactEmailController extends Controller
             return response()->json(['error' => 'Author email is not configured.'], Response::HTTP_INTERNAL_SERVER_ERROR);
         }
 
-        Notification::send($authorEmail, new ContactEmailNotification($request->all()));
+        // Mail::to($authorEmail)->send(new ContactAuthorMail());
+
+        Mail::raw('This is a test email body.', function ($message) use ($authorEmail) {
+            $message->to($authorEmail)
+                    ->subject('Contact Form Submission');
+        });
+        return response()->json(['message' => 'Email sent successfully.'], Response::HTTP_OK);
     }
 }
