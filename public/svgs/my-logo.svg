@@ -1,0 +1,425 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1161" height="531" viewBox="-0.5 -0.5 1161 531">
+    <g data-cell-id="0">
+      <g data-cell-id="1">
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M90 270h80v80H90z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-41"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M0 450h80v80H0z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-42"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M90 450h80v80H90z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-43"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M180 450h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-44"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M270 450h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-45"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M360 450h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-46"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M450 450h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-47"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M180 270h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-48"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M360 360h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-49"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M360 270h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-50"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M360 180h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-51"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M360 90h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-52"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M360 0h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-53"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M450 0h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-54"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M540 0h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-55"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M630 0h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-56"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M180 180h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-57"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M180 90h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-58"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M270 0h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-59"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M180 0h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-60"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M0 270h80v80H0z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-61"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M0 360h80v80H0z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-62"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M720 0h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-63"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M720 90h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-64"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M720 180h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-65"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M630 180h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-66"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M540 180h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-67"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M630 270h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-68"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M540 360h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-69"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M540 450h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-70"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M720 360h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-71"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M720 270h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-72"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M720 450h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-73"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M810 0h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-74"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M990 0h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-75"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M900 0h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-76"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M1080 0h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-77"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M1080 90h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-78"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M1080 180h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-79"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M1080 270h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-80"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M1080 360h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-81"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M1080 450h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-82"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M990 450h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-83"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M900 450h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-84"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M900 270h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-85"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M900 180h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-86"
+          pointerEvents="all"
+        ></path>
+        <path
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          d="M810 450h80v80h-80z"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-87"
+          pointerEvents="all"
+        ></path>
+        <circle
+          cx="670"
+          cy="490"
+          r="40"
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-88"
+          pointerEvents="all"
+        ></circle>
+        <circle
+          cx="670"
+          cy="400"
+          r="25"
+          fill="light-dark(currentColor, rgb(237, 237, 237))"
+          stroke="light-dark(currentColor, rgb(255, 255, 255))"
+          data-cell-id="bKSkoynfvdSehXPLl7zG-89"
+          pointerEvents="all"
+        ></circle>
+        <g data-cell-id="bKSkoynfvdSehXPLl7zG-91" pointerEvents="all">
+          <path
+            fill="light-dark(currentColor, rgb(237, 237, 237))"
+            stroke="light-dark(rgb(255, 255, 255), rgb(18, 18, 18))"
+            strokeMiterlimit="10"
+            d="M0 180h150l20 20v60H20L0 240z"
+          ></path>
+          <path
+            fill="light-dark(currentColor, rgb(237, 237, 237))"
+            fillOpacity="0.05"
+            d="M0 180h150l20 20H20Z"
+          ></path>
+          <path
+            fill="light-dark(currentColor, rgb(237, 237, 237))"
+            fillOpacity="0.1"
+            d="m0 180 20 20v60L0 240Z"
+          ></path>
+          <path
+            fill="none"
+            stroke="light-dark(rgb(255, 255, 255), rgb(18, 18, 18))"
+            strokeMiterlimit="10"
+            d="M20 260v-60L0 180m20 20h150"
+          ></path>
+        </g>
+        <g data-cell-id="bKSkoynfvdSehXPLl7zG-93" pointerEvents="all">
+          <path
+            fill="light-dark(currentColor, rgb(237, 237, 237))"
+            stroke="light-dark(rgb(255, 255, 255), rgb(18, 18, 18))"
+            strokeMiterlimit="10"
+            d="M80 110h70l20 20v60h-70l-20-20z"
+          ></path>
+          <path
+            fill="light-dark(currentColor, rgb(237, 237, 237))"
+            fillOpacity="0.05"
+            d="M80 110h70l20 20h-70Z"
+          ></path>
+          <path
+            fill="light-dark(currentColor, rgb(237, 237, 237))"
+            fillOpacity="0.1"
+            d="m80 110 20 20v60l-20-20Z"
+          ></path>
+          <path
+            fill="none"
+            stroke="light-dark(rgb(255, 255, 255), rgb(18, 18, 18))"
+            strokeMiterlimit="10"
+            d="M100 190v-60l-20-20m20 20h70"
+          ></path>
+        </g>
+        <g data-cell-id="bKSkoynfvdSehXPLl7zG-92" pointerEvents="all">
+          <path
+            fill="light-dark(currentColor, rgb(237, 237, 237))"
+            stroke="light-dark(rgb(255, 255, 255), rgb(18, 18, 18))"
+            strokeMiterlimit="10"
+            d="M5 110h65l20 20v60H25L5 170z"
+          ></path>
+          <path
+            fill="light-dark(currentColor, rgb(237, 237, 237))"
+            fillOpacity="0.05"
+            d="M5 110h65l20 20H25Z"
+          ></path>
+          <path
+            fill="light-dark(currentColor, rgb(237, 237, 237))"
+            fillOpacity="0.1"
+            d="m5 110 20 20v60L5 170Z"
+          ></path>
+          <path
+            fill="none"
+            stroke="light-dark(rgb(255, 255, 255), rgb(18, 18, 18))"
+            strokeMiterlimit="10"
+            d="M25 190v-60L5 110m20 20h65"
+          ></path>
+        </g>
+      </g>
+    </g>
+  </svg>

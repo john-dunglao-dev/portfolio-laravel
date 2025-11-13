@@ -9,6 +9,7 @@ use Illuminate\Mail\Mailables\Content;
 use Illuminate\Mail\Mailables\Envelope;
 use Illuminate\Queue\SerializesModels;
 
+// todo: implement ShouldQueue if needed
 class ContactAuthorMail extends Mailable
 {
     use Queueable, SerializesModels;
@@ -16,10 +17,12 @@ class ContactAuthorMail extends Mailable
     /**
      * Create a new message instance.
      */
-    public function __construct()
-    {
-        //
-    }
+    public function __construct(
+        protected string $name,
+        protected string $email,
+        protected string $messageSubject,
+        protected string $messageBody
+    ) {}
 
     /**
      * Get the message envelope.
@@ -38,6 +41,14 @@ class ContactAuthorMail extends Mailable
     {
         return new Content(
             markdown: 'mail.contact.author',
+            with: [
+                'contactData' => [
+                    'name' => $this->name,
+                    'email' => $this->email,
+                    'subject' => $this->messageSubject,
+                    'message' => $this->messageBody,
+                ],
+            ],
         );
     }
 

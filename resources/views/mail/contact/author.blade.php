@@ -1,12 +1,17 @@
 <x-mail::message>
-# Introduction
+# Message from your Portfolio Website
 
-The body of your message.
+A new message has been received from your portfolio website contact form.
 
-<x-mail::button :url="''">
-Button Text
-</x-mail::button>
+<x-mail::table>
+| Field   | Details               |
+|---------|-----------------------|
+| Name    | {{ $contactData['name'] }}    |
+| Email   | [{{ $contactData['email'] }}](mailto:{{ $contactData['email'] }})   |
+| Subject | {{ $contactData['subject'] }} |
+| Message | {{ $contactData['message'] }} |
+</x-mail::table>
 
 Thanks,<br>
-{{ config('app.name') }}
+Bot John Jr.
 </x-mail::message>

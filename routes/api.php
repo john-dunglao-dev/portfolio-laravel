@@ -8,4 +8,7 @@ Route::get('/user', function (Request $request) {
     return $request->user();
 })->middleware('auth:sanctum');
 
-Route::post('/contact', [ContactEmailController::class, 'mailAuthor']);
+Route::prefix('contact')->group(function() {
+    Route::post('send-to-author', [ContactEmailController::class, 'mailAuthor']);
+    Route::get('preview-to-author', [ContactEmailController::class, 'previewMail']);
+});
