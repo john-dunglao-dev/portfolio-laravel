@@ -17,7 +17,10 @@ class ContactEmailController extends Controller
             return response()->json(['error' => 'Author email is not configured.'], Response::HTTP_INTERNAL_SERVER_ERROR);
         }
 
-        Mail::to($authorEmail)->send(new ContactAuthorMail(
+        $sendCopy = $request->validated('sendCopy');
+        $sendTo = $sendCopy ? [$authorEmail, $request->validated('email')] : [$authorEmail];
+
+        Mail::to($sendTo)->send(new ContactAuthorMail(
             $request->validated('name'),
             $request->validated('email'),
             $request->validated('subject'),

@@ -41,6 +41,11 @@ class ContactAuthorForm extends FormRequest
                 'required',
                 'string',
             ],
+            'sendCopy' => [
+                'sometimes',
+                'nullable',
+                'boolean',
+            ],
         ];
     }
 }
